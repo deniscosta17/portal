@@ -3,7 +3,6 @@ import { Badge,Table, Fade, Label, Input, FormGroup, Button, ButtonDropdown, Dro
 import { Card, Form } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCalendarAlt, faClipboardList } from '@fortawesome/free-solid-svg-icons';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 class PreTatico extends  Component{

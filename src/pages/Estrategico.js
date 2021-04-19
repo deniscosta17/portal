@@ -3,7 +3,6 @@ import { Badge,Table, Button, ButtonDropdown, DropdownItem, DropdownMenu, Dropdo
 import { Card, Form } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCalendarAlt, faClipboardList } from '@fortawesome/free-solid-svg-icons';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 class Estrategico extends  Component{
